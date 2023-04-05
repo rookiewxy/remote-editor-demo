@@ -1,0 +1,218 @@
+{
+    "config": {
+        "page": {
+            "id": "d9783910d0e9489699bd057dafe41f12",
+            "createdBy": "0017e878b4c05c5d88525c704f03172e",
+            "createdTime": "2023-04-05 15:27:39",
+            "updatedBy": "0017e878b4c05c5d88525c704f03172e",
+            "updatedTime": "2023-04-05 15:27:39",
+            "screenId": "a1d045cbc4d6440fb20cd988010cbf96",
+            "width": 1920,
+            "height": 1080,
+            "backgroundColor": "rgb(33, 33, 33)",
+            "backgroundImage": null,
+            "display": 1,
+            "grid": 1,
+            "thumb": null,
+            "watermarkFlag": false,
+            "filter": {
+                "id": "da6ec069bec846dd949ac232ab49d434",
+                "createdBy": "0017e878b4c05c5d88525c704f03172e",
+                "createdTime": "2023-04-05 15:27:39",
+                "updatedBy": "0017e878b4c05c5d88525c704f03172e",
+                "updatedTime": "2023-04-05 15:27:39",
+                "configId": "d9783910d0e9489699bd057dafe41f12",
+                "hueRotate": 0,
+                "saturate": 100,
+                "brightness": 100,
+                "contrast": 100,
+                "opacity": 100,
+                "global": null,
+                "grayscale": 0
+            },
+            "theme": null,
+            "themeId": null,
+            "hue": 0,
+            "saturation": 100,
+            "brightness": 100,
+            "contrast": 100,
+            "opacity": 100,
+            "gray": 0
+        },
+        "editor": {
+            "id": "a503a89b8ba8443b8f494297f8dd4ef7",
+            "createdBy": "0017e878b4c05c5d88525c704f03172e",
+            "createdTime": "2023-04-05 15:27:39",
+            "updatedBy": "0017e878b4c05c5d88525c704f03172e",
+            "updatedTime": "2023-04-05 15:27:41",
+            "screenId": "a1d045cbc4d6440fb20cd988010cbf96",
+            "rulerLineFlag": null,
+            "alignmentLineFlag": null,
+            "layerFlag": true,
+            "componentFlag": true,
+            "configFlag": true,
+            "toolbarFlag": true,
+            "converterFlag": null,
+            "scaling": null,
+            "rulerLine": []
+        }
+    },
+    "converters": [],
+    "scenes": [
+        {
+            "id": "bf2dc71e6e7a4c6ab9f52064ef734e4d",
+            "createdBy": "0017e878b4c05c5d88525c704f03172e",
+            "createdTime": "2023-04-05 15:27:39",
+            "updatedBy": "0017e878b4c05c5d88525c704f03172e",
+            "updatedTime": "2023-04-05 15:27:39",
+            "screenId": "a1d045cbc4d6440fb20cd988010cbf96",
+            "name": "默认场景",
+            "layers": [
+                {
+                    "id": "e3e388dbb57744818e453b3093cb0183",
+                    "createdBy": null,
+                    "createdTime": null,
+                    "updatedBy": null,
+                    "updatedTime": null,
+                    "sceneId": "bf2dc71e6e7a4c6ab9f52064ef734e4d",
+                    "comId": "185d10842687471e846958f16a1a1b29",
+                    "comType": "interactive-btn",
+                    "comCategory": "interactive",
+                    "type": "singleton",
+                    "name": "按钮_lZdRl",
+                    "dataId": "e10d25438e8547399c3bae0d2027f71e",
+                    "parentId": "0",
+                    "sort": 1,
+                    "interaction": {
+                        "config": {
+                            "click": {
+                                "name": "鼠标单击",
+                                "enable": true,
+                                "nodes": []
+                            },
+                            "mouseover": {
+                                "name": "鼠标悬浮",
+                                "enable": false,
+                                "nodes": []
+                            }
+                        }
+                    },
+                    "children": [],
+                    "attr": {
+                        "w": 120,
+                        "h": 40,
+                        "x": 329,
+                        "y": 455,
+                        "hide": false,
+                        "opacity": 100,
+                        "global": false,
+                        "lock": false,
+                        "deg": 0
+                    },
+                    "data": {
+                        "id": "e10d25438e8547399c3bae0d2027f71e",
+                        "createdBy": "0017e878b4c05c5d88525c704f03172e",
+                        "createdTime": "2023-04-05 15:32:52",
+                        "updatedBy": "0017e878b4c05c5d88525c704f03172e",
+                        "updatedTime": "2023-04-05 15:32:52",
+                        "type": "static",
+                        "autoUpdate": false,
+                        "updateInterval": 10,
+                        "enabledConverter": false,
+                        "dataId": null,
+                        "apiId": null,
+                        "converters": "",
+                        "api": null,
+                        "value": [
+                            {
+                                "title": "基础按钮"
+                            }
+                        ],
+                        "fields": {},
+                        "staticValue": [
+                            {
+                                "title": "基础按钮"
+                            }
+                        ],
+                        "dataCache": null,
+                        "mysql": null
+                    },
+                    "config": {
+                        "clickStyle": {
+                            "clickBorderStyle": {
+                                "clickBorderWidth": 1,
+                                "clickBorderColor": "#3E8CFF",
+                                "clickBorderRadius": 4,
+                                "clickBorderType": "solid"
+                            },
+                            "clickBackgroundStyle": {
+                                "clickBackgroundColor": "#3E8CFF",
+                                "clickBackgroundImage": "",
+                                "clickBackgroundImageRepeat": false,
+                                "clickBackgroundImageSizeW": 100,
+                                "clickBackgroundImageSizeH": 100
+                            },
+                            "clickTextStyle": {
+                                "clickTextColor": "#ffffff",
+                                "clickTextFontWeight": "normal",
+                                "clickTextFontSize": 16,
+                                "clickTextAlign": "center"
+                            }
+                        },
+                        "series": [],
+                        "hoverStyle": {
+                            "hoverBorderStyle": {
+                                "hoverBorderWidth": 1,
+                                "hoverBorderColor": "#3E8CFF",
+                                "hoverBorderRadius": 8,
+                                "hoverBorderType": "solid"
+                            },
+                            "hoverBackgroundStyle": {
+                                "hoverBackgroundColor": "#3E8CFF",
+                                "hoverBackgroundImage": "",
+                                "hoverBackgroundImageRepeat": false,
+                                "hoverBackgroundImageSizeW": 100,
+                                "hoverBackgroundImageSizeH": 100
+                            },
+                            "hoverTextStyle": {
+                                "hoverTextColor": "#ffffff",
+                                "hoverTextFontWeight": "normal",
+                                "hoverTextFontSize": 16,
+                                "hoverTextAlign": "center"
+                            }
+                        },
+                        "fontStyle": {
+                            "fontFamily": "Microsoft Yahei"
+                        },
+                        "normalStyle": {
+                            "normalBoderStyle": {
+                                "normalBorderWidth": 1,
+                                "normalBorderColor": "#3E8CFF",
+                                "normalBorderRadius": 4,
+                                "normalBorderType": "solid"
+                            },
+                            "normalBackgroundStyle": {
+                                "normalBackgroundColor": "linear-gradient(180deg, rgba(0, 102, 255, 1) 0%, rgba(85, 153, 254, 1) 100%)",
+                                "normalBackgroundImage": "",
+                                "normalBackgroundImageRepeat": false,
+                                "normalBackgroundImageSizeW": 100,
+                                "normalBackgroundImageSizeH": 100
+                            },
+                            "normalTextStyle": {
+                                "normalTextColor": "#ffffff",
+                                "normalTextFontWeight": "normal",
+                                "normalTextFontSize": 16,
+                                "normalTextAlign": "center"
+                            }
+                        },
+                        "hyperlinks": {
+                            "link": "",
+                            "openNew": true
+                        }
+                    },
+                    "animations": null
+                }
+            ]
+        }
+    ]
+}
